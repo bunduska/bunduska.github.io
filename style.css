@@ -1,0 +1,29 @@
+body {
+
+    background-image: url('topography.png');
+    font-family: 'Consolas', 'Courier New', Courier, monospace
+}
+
+.bodyonly {
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+header {
+    background-color:lightslategray;
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    color: #ff0099;
+
+}
+
+.logo { float: left; margin-left: 10px }
+
+h1 {font-family: 'Akaya Telivigala', cursive;}
+h2 {color:darkviolet }
+h3 {text-align: center;}
+h4 {font-style: italic;}
+
+.separator {text-align: center}
